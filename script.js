@@ -16,7 +16,7 @@ form.addEventListener("submit", function (event) {
 
 	// ===== MEMBUAT ISI PESAN WHATSAPP =====
 	const isiPesan =
-`Halo Cinta Kasih, saya menghubungi melalui website CV.
+`Hallo saya menghubungi melalui website CV.
 Nama Lengkap : ${nama}
 Email        : ${email}
 No. Telepon  : ${telepon}
